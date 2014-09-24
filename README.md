@@ -1,0 +1,4 @@
+lad
+===
+
+Least Absolute Deviation
